@@ -1,3 +1,3 @@
 export default function(server) {
-  server.createList('user', 50);
+  server.createList('user', 24);
 }

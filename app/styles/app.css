@@ -1,0 +1,19 @@
+*{
+  margin: 20px;
+  padding: 0px;
+}
+
+.column{
+  width:100%;
+}
+
+.image-container{
+  margin: auto;
+  width: 15%;
+  height: 150px;
+  float: left;
+}
+
+.image-container img{
+  max-height: 150px;
+}
